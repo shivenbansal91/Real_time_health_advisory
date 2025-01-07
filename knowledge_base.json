@@ -1,0 +1,6 @@
+{
+    "high_heart_rate": "Your heart rate is too high! Consider resting or doing breathing exercises.",
+    "low_spo2": "Your SpO₂ level is low! Ensure you are in a well-ventilated area and consult a doctor if it persists.",
+    "high_steps": "Great job! You've walked over 10,000 steps. Stay hydrated.",
+    "normal": "All metrics look good. Keep maintaining a healthy lifestyle!"
+}
